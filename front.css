@@ -1,0 +1,18 @@
+body {color: yellow; background-color: #1f1d1a; font-size: 30px;}
+header, nav, section {background-color: #E6B26F; margin: 50px auto; border: 2px solid blue; width: 80%; text-align: center;}
+
+
+nav {display: flex; flex-direction: row; justify-content: space-around;}
+
+article {
+    margin: 10px;
+}
+
+img {
+    width: 600px;
+}
+
+.side {font-size: 30px;}
+article {margin-bottom: 100px;}
+
+
